@@ -11,7 +11,7 @@
 
 ## Additional skills
 * Django for Web Development
-* Unit Testing with pytest
+* Unit Testing with unittest
 * Creating Simple Business Task Automation Programs
 * Tkinter for GUI Development
 
