@@ -1,6 +1,6 @@
 # Paweł Jakubczyk - Backend Developer with Data Science Focus
 
-📫 How to reach me: [pawel-jakubczyk]()
+📫 How to reach me: [pawel-jakubczyk](https://www.linkedin.com/in/pawe%C5%82-jakubczyk-3b9175224/)
 
 ## Main skills 
 * Backend Development
