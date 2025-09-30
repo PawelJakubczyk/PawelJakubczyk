@@ -14,7 +14,7 @@
 
 ## 💻 Main Skills
 
-* **Backend Development in C# / ASP.NET (NTT Framework)**
+* **Backend Development in C# / ASP.NET (Entity Framework)**
 * Designing and implementing REST APIs
 * Database management (SQL Server, MongoDB, Entity Framework)
 * Application architecture patterns (Clean Architecture, Modular Monolith, Vertical Slice)
