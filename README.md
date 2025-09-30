@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Paweł%20Jakubczyk-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:pawel.jakubczyk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pawel.jakubczyk%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-pawel.jakubczyk%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
