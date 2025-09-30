@@ -16,15 +16,16 @@
 
 * **Backend Development in C# / ASP.NET (NTT Framework)**
 * Designing and implementing REST APIs
-* Database management (SQL Server, Entity Framework)
-* Cloud solutions with **Microsoft Azure**
-
+* Database management (SQL Server, MongoDB, Entity Framework)
+* Application architecture patterns (Clean Architecture, Modular Monolith, Vertical Slice)
+    
 ## 📊 Data & Python Background
 
 * Data manipulation with **Pandas** and **PySpark**
 * Prototyping and automation with Python
 * Experience with **Django** for web applications
 * Applied machine learning with **Scikit-learn**
+* Cloud solutions with **Microsoft Azure**
 
 ## 🛠 Additional Skills
 
@@ -35,7 +36,8 @@
 ## 🚀 Currently Exploring
 
 * Advanced .NET ecosystem features
-* Scalable backend architecture patterns
+* Scalable backend architecture and design patterns
+* Frontend development with React and Next.js
 
 ### 🔧 Tech Stack  
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -43,7 +45,8 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ## 📈 Github Stats
 
