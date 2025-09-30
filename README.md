@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/pawe%C5%82-jakubczyk-3b9175224/">
     <img src="https://img.shields.io/badge/LinkedIn-Paweł%20Jakubczyk-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:pawel.jakubczyk@example.com">
+  <a href="mailto:pawel.jakubczyk@gmail.com">
     <img src="https://img.shields.io/badge/Email-pawel.jakubczyk%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -47,6 +47,20 @@
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+## 🌟 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/PawelJakubczyk/TwojProjektCSharp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PawelJakubczyk&repo=TwojProjektCSharp&theme=onedark" alt="[Projekt C#](https://github.com/PawelJakubczyk/PromptJourney.git)"/>
+  </a>
+  <a href="https://github.com/PawelJakubczyk/TwojProjektPython">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PawelJakubczyk&repo=TwojProjektPython&theme=onedark" alt="Projekt Python"/>
+  </a>
+  <a href="https://github.com/PawelJakubczyk/InnyProjekt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PawelJakubczyk&repo=InnyProjekt&theme=onedark" alt="Inny Projekt"/>
+  </a>
+</p>
 
 ## 📈 Github Stats
 
