@@ -51,16 +51,17 @@
 ## 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/PawelJakubczyk/TwojProjektCSharp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PawelJakubczyk&repo=TwojProjektCSharp&theme=onedark" alt="[Projekt C#](https://github.com/PawelJakubczyk/PromptJourney.git)"/>
+  <a href="https://github.com/PawelJakubczyk/PromptJourney">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PawelJakubczyk&repo=PromptJourney&theme=onedark" alt="PromptJourney"/>
   </a>
-  <a href="https://github.com/PawelJakubczyk/TwojProjektPython">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PawelJakubczyk&repo=TwojProjektPython&theme=onedark" alt="Projekt Python"/>
+  <a href="https://github.com/PawelJakubczyk/mln_ham_or_spam_classifier">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PawelJakubczyk&repo=mln_ham_or_spam_classifier&theme=onedark" alt="Ham or Spam Classifier"/>
   </a>
-  <a href="https://github.com/PawelJakubczyk/InnyProjekt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PawelJakubczyk&repo=InnyProjekt&theme=onedark" alt="Inny Projekt"/>
+  <a href="https://github.com/PawelJakubczyk/mln_see_animals_classifier">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PawelJakubczyk&repo=mln_see_animals_classifier&theme=onedark" alt="See Animals Classifier"/>
   </a>
 </p>
+
 
 ## 📈 Github Stats
 
