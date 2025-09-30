@@ -1,23 +1,32 @@
-# Paweł Jakubczyk - Backend Developer with Data Science Focus
+# Paweł Jakubczyk – Backend Developer (C# / ASP.NET)
 
-📫 How to reach me: [pawel-jakubczyk](https://www.linkedin.com/in/pawe%C5%82-jakubczyk-3b9175224/)
+📫 Contact: [LinkedIn](https://www.linkedin.com/in/pawe%C5%82-jakubczyk-3b9175224/)
 
-## Main skills 
-* Backend Development
-* Data Science
-* Pandas for Data Manipulation
-* Pyspark for Data Manipulation
-* Microsoft Azure for Cloud Solutions
+## 💻 Main Skills
 
-## Additional skills
-* Django for Web Development
-* Unit Testing with unittest
-* Creating Simple Business Task Automation Programs
-* Tkinter for GUI Development
+* **Backend Development in C# / ASP.NET (NTT Framework)**
+* Designing and implementing REST APIs
+* Database management (SQL Server, Entity Framework)
+* Cloud solutions with **Microsoft Azure**
 
-## Currently investigating 
-* Sklearn for Machine Learning
+## 📊 Data & Python Background
 
-## Stats
+* Data manipulation with **Pandas** and **PySpark**
+* Prototyping and automation with Python
+* Experience with **Django** for web applications
+* Applied machine learning with **Scikit-learn**
+
+## 🛠 Additional Skills
+
+* Unit Testing (C# and Python)
+* Task automation & simple business tools
+* GUI development with Tkinter
+
+## 🚀 Currently Exploring
+
+* Advanced .NET ecosystem features
+* Scalable backend architecture patterns
+
+## 📈 Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=PawelJakubczyk)](https://github.com/PawelJakubczyk/github-readme-stats)
