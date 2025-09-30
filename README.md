@@ -7,8 +7,8 @@
   <a href="https://www.linkedin.com/in/pawe%C5%82-jakubczyk-3b9175224/">
     <img src="https://img.shields.io/badge/LinkedIn-Paweł%20Jakubczyk-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:pawel.jakubczyk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pawel.jakubczyk%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:paweljakubczyk1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-paweljakubczyk1%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
