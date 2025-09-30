@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://github.com/PawelJakubczyk/PromptJourney">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PawelJakubczyk&repo=PromptJourney&theme=onedark" alt="PromptJourney"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PawelJakubczyk&repo=PromptJourney&theme=onedark" alt="PromptJourney" description=“Tool for generating and managing MidJourney prompts”/>
   </a>
   <a href="https://github.com/PawelJakubczyk/mln_ham_or_spam_classifier">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PawelJakubczyk&repo=mln_ham_or_spam_classifier&theme=onedark" alt="Ham or Spam Classifier"/>
