@@ -52,13 +52,13 @@
 
 <p align="center">
   <a href="https://github.com/PawelJakubczyk/PromptJourney">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PawelJakubczyk&repo=PromptJourney&theme=onedark" alt="PromptJourney" description=“Tool for generating and managing MidJourney prompts”/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PawelJakubczyk&repo=PromptJourney&theme=onedark" alt="PromptJourney"/>
   </a>
   <a href="https://github.com/PawelJakubczyk/mln_ham_or_spam_classifier">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PawelJakubczyk&repo=mln_ham_or_spam_classifier&theme=onedark" alt="Ham or Spam Classifier"/>
   </a>
-  <a href="https://github.com/PawelJakubczyk/mln_see_animals_classifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PawelJakubczyk&repo=mln_see_animals_classifier&theme=onedark" alt="See Animals Classifier"/>
+  <a href="https://github.com/PawelJakubczyk/mln_sea_animals_classifier">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PawelJakubczyk&repo=mln_sea_animals_classifier&theme=onedark" alt="Sea Animals Classifier"/>
   </a>
 </p>
 
